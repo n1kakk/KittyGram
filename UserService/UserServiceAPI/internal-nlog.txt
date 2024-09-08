@@ -1,0 +1,300 @@
+2024-04-10 20:32:39.7205 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 20:32:39.7599 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 20:32:39.8067 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 20:32:39.8067 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 20:32:39.8122 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 20:32:39.8122 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 20:32:39.8314 Info Configuration initialized.
+2024-04-10 20:36:01.2618 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 20:36:01.2910 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 20:36:01.3580 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 20:36:01.3580 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 20:36:01.3580 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 20:36:01.3969 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 20:36:01.4304 Info Configuration initialized.
+2024-04-10 20:41:52.5996 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 20:41:52.6484 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 20:41:52.7015 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 20:41:52.7024 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 20:41:52.7024 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 20:41:52.7196 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 20:41:52.7654 Info Configuration initialized.
+2024-04-10 20:52:34.2710 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 20:52:34.3090 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 20:52:34.3549 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 20:52:34.3549 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 20:52:34.3602 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 20:52:34.3602 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 20:52:34.4104 Info Configuration initialized.
+2024-04-10 20:52:51.2192 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 20:52:51.2583 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 20:52:51.3089 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 20:52:51.3089 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 20:52:51.3162 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 20:52:51.3337 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 20:52:51.3907 Info Configuration initialized.
+2024-04-10 20:53:12.5937 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.10 result:created type: error:
+2024-04-10 20:54:40.5542 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 20:54:40.5992 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 20:54:40.6681 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 20:54:40.6681 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 20:54:40.6757 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 20:54:40.6949 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 20:54:40.7583 Info Configuration initialized.
+2024-04-10 20:58:51.0512 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 20:58:51.1023 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 20:58:51.1658 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 20:58:51.1658 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 20:58:51.1761 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 20:58:51.2003 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 20:58:51.2718 Info Configuration initialized.
+2024-04-10 21:03:57.7079 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 21:03:57.7508 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 21:03:57.8097 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 21:03:57.8097 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 21:03:57.8164 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 21:03:57.8275 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 21:03:57.8770 Info Configuration initialized.
+2024-04-10 21:05:46.1361 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 21:05:46.1706 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 21:05:46.2179 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 21:05:46.2179 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 21:05:46.2179 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 21:05:46.2345 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 21:05:46.2886 Info Configuration initialized.
+2024-04-10 21:09:03.5513 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 21:09:03.5884 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 21:09:03.6353 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 21:09:03.6353 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 21:09:03.6418 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 21:09:03.6557 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 21:09:03.7075 Info Configuration initialized.
+2024-04-10 21:09:56.8003 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 21:09:56.8350 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 21:09:56.8796 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 21:09:56.8796 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 21:09:56.8796 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 21:09:56.8941 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 21:09:56.9399 Info Configuration initialized.
+2024-04-10 21:11:51.4396 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 21:11:51.4833 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 21:11:51.5492 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 21:11:51.5492 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 21:11:51.5492 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 21:11:51.5710 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 21:11:51.6352 Info Configuration initialized.
+2024-04-10 21:12:42.7189 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 21:12:42.7520 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 21:12:42.7992 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 21:12:42.7992 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 21:12:42.7992 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 21:12:42.8188 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 21:12:42.8746 Info Configuration initialized.
+2024-04-10 21:14:41.0650 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 21:14:41.1061 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 21:14:41.1541 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 21:14:41.1541 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 21:14:41.1624 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 21:14:41.1818 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 21:14:41.2762 Info Configuration initialized.
+2024-04-10 21:17:32.0108 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 21:17:32.0485 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 21:17:32.1113 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 21:17:32.1113 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 21:17:32.1113 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 21:17:32.1330 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 21:17:32.1979 Info Configuration initialized.
+2024-04-10 21:19:24.1841 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 21:19:24.2226 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 21:19:24.2676 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 21:19:24.2676 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 21:19:24.2676 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 21:19:24.2825 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 21:19:24.3266 Info Configuration initialized.
+2024-04-10 21:41:56.9258 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 21:41:56.9689 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 21:41:57.0190 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 21:41:57.0190 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 21:41:57.0190 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 21:41:57.0404 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 21:41:57.0965 Info Configuration initialized.
+2024-04-10 21:42:11.9778 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.10 result:created type: error:
+2024-04-10 21:43:18.4419 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 21:43:18.4772 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 21:43:18.5292 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 21:43:18.5304 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 21:43:18.5304 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 21:43:18.5518 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 21:43:18.6022 Info Configuration initialized.
+2024-04-10 21:46:50.5870 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-10 21:46:50.6241 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-10 21:46:50.6725 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-10 21:46:50.6725 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-10 21:46:50.6725 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 21:46:50.6926 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-10 21:46:50.7370 Info Configuration initialized.
+2024-04-11 18:54:07.1387 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-11 18:54:07.2088 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-11 18:54:07.2896 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-11 18:54:07.2896 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-11 18:54:07.2896 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-11 18:54:07.3121 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-11 18:54:07.3910 Info Configuration initialized.
+2024-04-11 18:54:32.0768 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 18:54:32.0768 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 18:57:18.1430 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-11 18:57:18.2094 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-11 18:57:18.2756 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-11 18:57:18.2756 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-11 18:57:18.2756 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-11 18:57:18.3016 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-11 18:57:18.3960 Info Configuration initialized.
+2024-04-11 19:00:09.1762 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 19:01:01.9837 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-11 19:01:02.0331 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-11 19:01:02.0942 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-11 19:01:02.0942 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-11 19:01:02.1033 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-11 19:01:02.1189 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-11 19:01:02.1892 Info Configuration initialized.
+2024-04-11 19:01:33.5920 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 19:01:33.5920 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 19:01:56.8599 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 19:01:56.8599 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 19:03:50.9337 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-11 19:03:50.9966 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-11 19:03:51.0783 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-11 19:03:51.0783 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-11 19:03:51.0875 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-11 19:03:51.1038 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-11 19:03:51.1730 Info Configuration initialized.
+2024-04-11 19:06:36.0935 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-11 19:06:36.1405 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-11 19:06:36.2153 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-11 19:06:36.2153 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-11 19:06:36.2263 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-11 19:06:36.2420 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-11 19:06:36.3200 Info Configuration initialized.
+2024-04-11 19:08:10.8347 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 19:08:10.8347 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 19:10:24.1958 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-11 19:10:24.2406 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-11 19:10:24.3002 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-11 19:10:24.3015 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-11 19:10:24.3015 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-11 19:10:24.3309 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-11 19:10:24.4042 Info Configuration initialized.
+2024-04-11 19:13:27.0612 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-11 19:13:27.1062 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-11 19:13:27.1677 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-11 19:13:27.1677 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-11 19:13:27.1766 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-11 19:13:27.1942 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-11 19:13:27.2612 Info Configuration initialized.
+2024-04-11 20:37:29.2623 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-11 20:37:29.3119 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-11 20:37:29.3628 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-11 20:37:29.3628 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-11 20:37:29.3686 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-11 20:37:29.3686 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-11 20:37:29.4169 Info Configuration initialized.
+2024-04-11 20:37:36.3050 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:36.3050 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:36.3050 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:36.3050 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:36.3050 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:36.3050 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:36.3050 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:36.3050 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:36.3050 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:36.3050 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:36.3050 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:36.3050 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:36.3050 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:51.6532 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:51.6532 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:51.6532 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:51.6532 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:51.6532 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:51.6532 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:51.6532 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:37:51.6532 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:42:46.0253 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:42:46.0253 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:42:46.0253 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:42:46.0253 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:42:46.0253 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:42:46.0253 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:42:46.0253 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:42:46.0253 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:46:36.6558 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:46:36.6558 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:46:36.6558 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:46:36.6626 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:46:36.6626 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:46:36.6626 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:46:36.6626 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:46:36.6626 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:06.9720 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-11 20:47:07.0097 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-11 20:47:07.0554 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-11 20:47:07.0554 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-11 20:47:07.0554 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-11 20:47:07.0794 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-11 20:47:07.1538 Info Configuration initialized.
+2024-04-11 20:47:13.8880 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:13.8880 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:13.8880 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:13.8880 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:13.8880 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:13.8880 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:13.8880 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:13.8880 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:13.8880 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:13.8880 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:13.8960 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:13.8960 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:13.8960 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:35.7246 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:35.7246 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:35.7246 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:35.7246 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:35.7246 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:35.7246 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:35.7246 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:47:35.7246 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:40.1829 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-11 20:48:40.2145 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-11 20:48:40.2555 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-11 20:48:40.2555 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-11 20:48:40.2555 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-11 20:48:40.2761 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-11 20:48:40.3183 Info Configuration initialized.
+2024-04-11 20:48:47.2402 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:47.2402 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:47.2402 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:47.2402 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:47.2402 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:47.2402 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:47.2402 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:47.2402 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:47.2402 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:47.2402 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:47.2402 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:47.2402 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:47.2402 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:53.6804 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:53.6804 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:53.6804 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:53.6804 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:53.6804 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:53.6804 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:53.6804 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:48:53.6804 Error ElasticSearch: Bulk item failed: index:nlog-2024.04.11 result:created type: error:
+2024-04-11 20:49:30.2214 Info Loading assembly name: NLog.Targets.ElasticSearch
+2024-04-11 20:49:30.2519 Info NLog.Targets.ElasticSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3eb62cd298662c6a. File version: 1.0.0.0. Product version: 1.0.0+2fb9a27ff48217059d2b3648bb2a79b6b0af9922. GlobalAssemblyCache: False
+2024-04-11 20:49:30.2942 Info Registered target NLog.Targets.ElasticSearch.ElasticSearchTarget(Name=ElasticSearch)
+2024-04-11 20:49:30.2942 Info Registered target NLog.Targets.Wrappers.BufferingTargetWrapper(Name=elastic)
+2024-04-11 20:49:30.2942 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-11 20:49:30.3119 Info Validating config: TargetNames=elastic, ConfigItems=23, FilePath=C:\Users\79832\source\repos\ChatApp\UserService\UserService\NLog.config
+2024-04-11 20:49:30.3685 Info Configuration initialized.

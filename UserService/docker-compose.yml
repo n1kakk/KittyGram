@@ -1,0 +1,36 @@
+version: "3.0"
+services:
+  elasticsearch:
+    container_name: es-container-UserService
+    image: bitnami/elasticsearch:8.13.1
+    environment:
+      - discovery.type=single-node
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    volumes:
+      - esdata1:/bitnami/elasticsearch/dataUsers
+    ports:
+      - 9201:9200
+    networks:
+      - es-net
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+  kibana:
+    container_name: kb-container-UserService
+    image: bitnami/kibana:8.13.1
+    environment:
+      - ELASTICSEARCH_HOSTS=http://es-container:9201
+    networks:
+      - es-net
+    depends_on:
+      - elasticsearch
+    ports:
+      - 5602:5601
+volumes:
+  esdata1:
+    driver: local
+networks:
+  es-net:
+    driver: bridge
